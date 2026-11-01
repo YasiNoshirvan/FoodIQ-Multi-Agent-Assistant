@@ -1,4 +1,4 @@
-# 🍎 FoodIQ — Multi-Agent Food Assistant
+# 🍎🥦 FoodIQ — Multi-Agent Food Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Multi--Agent-1C3C3C) ![Groq](https://img.shields.io/badge/LLM-Groq-F55036) ![Type](https://img.shields.io/badge/Type-Educational%20Project-informational)
 
@@ -6,7 +6,7 @@ A small **supervisor-based multi-agent assistant** for questions about fruits an
 
 The project extends a basic AI Engineering course exercise with a larger local food dictionary, conversation memory, and optional web search.
 
-## ✨ What it does
+## 🔍 What it does
 
 - Uses a **Supervisor Agent** to route questions to specialized agents.
 - Looks up facts about **13 fruits and 13 vegetables** stored in Python dictionaries.
@@ -86,10 +86,6 @@ Tell me about dragon fruit.
 ```
 
 Type `clear` to reset chat history and `exit` or `q` to quit.
-
-## ⚠️ Limitations
-
-The local data is a **small set of descriptive facts**, not a comprehensive nutritional database. Web information depends on Tavily availability and the returned search results. The assistant does not verify nutritional or medical claims independently, and conversation memory disappears when the program closes.
 
 ---
 
