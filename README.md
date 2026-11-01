@@ -27,7 +27,7 @@ The two specialists use Python dictionaries covering **26 foods (13 fruits and 1
 - Display of the specialists used for each answer
 - Basic error handling and a command to clear chat history
 
-## 🧠 Architecture
+## 🧩 Architecture
 
 ```text
 User question
