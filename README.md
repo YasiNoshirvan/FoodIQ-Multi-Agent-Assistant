@@ -1,4 +1,4 @@
-# 🍎 FoodIQ — Multi-Agent Food Assistant
+# 🍎🥦 FoodIQ — Multi-Agent Food Assistant
 
 **A small supervisor-based AI project for exploring fruit and vegetable information with specialized agents.**
 
@@ -6,7 +6,7 @@ Built with **Python, LangChain, and Groq**, FoodIQ demonstrates how a supervisor
 
 ---
 
-## 🌱 Overview
+## 🔍 Overview
 
 FoodIQ has three agents:
 
